@@ -278,6 +278,15 @@
         "uri": "./CUSTOM-FIX-ADD.txt",
         "onlyIPType": "ipv4"
       }
+    },
+    {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "cn",
+        "uri": "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt",
+        "onlyIPType": "ipv4"
+      }
     }
   ],
   "output": [
