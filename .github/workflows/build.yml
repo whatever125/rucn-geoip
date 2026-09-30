@@ -1,3 +1,4 @@
+# Fork adaptation (whatever125): explicit triggers below keep push/schedule rebuilds working on the fork.
 name: Build geoip
 on:
   workflow_dispatch:
